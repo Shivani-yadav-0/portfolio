@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Hi there! I’m Prisha Srivastava, a data explorer and solution-finder fascinated by the power of data to shape smarter decisions and impactful stories. Currently pursuing my **Master’s in Business Analytics at the University of Cincinnati**, I’m dedicated to turning insights into results, one dataset at a time.
+Hi there! I’m Shivani Yadav, a data explorer and solution-finder fascinated by the power of data to shape smarter decisions and impactful stories. Currently pursuing my **Master’s in Business Analytics at the University of Cincinnati**, I’m dedicated to turning insights into results, one dataset at a time.
 
 My portfolio showcases my ability to extract valuable insights from data, and I'm eager to collaborate on projects that make a real impact. Let's connect and unleash the power of data together!🤝
 
