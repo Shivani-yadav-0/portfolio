@@ -1,23 +1,27 @@
 # Shivani Yadav Portfolio 
 
-Welcome to my professional portfolio! I am a Business Analytics and Health Economics professional with 3+ years of experience in the healthcare sector, specializing in cost-effectiveness modeling, data analysis, and visualization. As a Master’s student in Business Analytics at the University of Cincinnati, I’m passionate about transforming complex datasets into actionable insights.
+Welcome to my professional portfolio! I am a Health Economics professional with 4+ years of experience in the healthcare sector, specializing in cost-effectiveness modeling, data analysis, and project managment. As a seasoned health economist I’m passionate about transforming complex healtcare datasets into actionable insights.
+
+I sit at the intersection of Advanced Analytics and Global Market Access. With a dual Master’s in Economics and Business Analytics, I translate complex healthcare ecosystems into robust, payer-relevant evidence. My mission is to ensure that life-changing innovations aren't just scientifically sound, but economically viable and accessible.
 
 My work focuses on uncovering trends, solving challenges, and delivering results that matter. My portfolio reflects my commitment to leveraging data for impact, and I’m excited about collaborating on projects that create value. Let’s connect and explore how we can drive progress together! 🌟
 
-With a background in Economics and analytics, I combine econometric expertise with analytical precision, always striving to make data a catalyst for positive change. If you share a passion for data-driven innovation, I’d love to hear from you!
+## Career Milestones 
 
-## Career Milestones 🚀
+**Senior Research Associate | BluePath Solutions**
+
+As a Health Economics professional, I led the development of advanced HEOR models to support market access and pricing strategy for innovative oncology therapies. I designed and built a comprehensive U.S. payer cost calculator incorporating current Medicare and commercial reimbursement methodologies, and developed cost-effectiveness and budget impact models for an investigational allogeneic T-cell immunotherapy across multiple hematologic malignancies. Leveraging R for cure-mixture survival modeling, I estimated long-term cure fractions to inform value demonstration. I spearheaded client-facing engagements to present modeling results and communicate healthcare economic information (HCEI), driving cross-functional alignment across medical, legal, and regulatory stakeholders.
 
 **Senior Health Economist	| Skyward Analytics**
  
-As a Senior Health Economist at Skyward Analytics (Apr 2022 – Jun 2024), I led impactful health economics projects, including developing cost-effectiveness and budget impact models for cancer therapies. I utilized tools like Python, SQL, and Excel to streamline clinical data analysis, automate processes, and enhance model efficiency. By introducing quality control SOPs and creating interactive Tableau dashboards, I reduced errors, improved team engagement, and expedited project timelines. My contributions significantly influenced strategic decision-making, strengthened client partnerships, and boosted project acquisition by 20%.
+As a Senior Health Economist at Skyward Analytics (Apr 2022 – Jun 2024), I led impactful health economics projects, including developing cost-effectiveness and budget impact models for cancer therapies. I utilized tools like Python, SQL, and Excel to streamline clinical data analysis, automate processes, and enhance model efficiency. By introducing quality control SOPs and creating interactive Tableau dashboards, I reduced errors, improved team engagement, and expedited project timelines. My contributions significantly influenced strategic decision-making, strengthened client partnerships.
 
 **Analyst | CHEORS**
 
 As an Analyst, I developed tailored cost-effectiveness and budget impact models for various countries, improving accuracy and policy relevance by 80%. I implemented a Markov model for CRBSI, increasing analysis efficiency by 15% and supporting better healthcare decision-making. My exceptional project delivery earned recognition and an award for producing superior-quality cost-effectiveness reports.
 
 
-## Featured Projects 📂
+## Featured Projects 
 Here are some projects I’ve worked on that demonstrate my expertise:
 
 1. **[Interactive Tableau Dashboards](https://public.tableau.com/app/profile/shivani.yadav5001/vizzes)**  
