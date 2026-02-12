@@ -32,7 +32,7 @@ Here are some projects I’ve worked on that demonstrate my expertise:
 
 ---
 
-## Core Competencies 🛠
+## Core Competencies 
 
 - **Business Analysis**: Adept at gathering and defining business requirements to align project outcomes with stakeholder needs.
 - **Project Coordination**: Skilled in planning, managing, and delivering projects on time and within scope.
